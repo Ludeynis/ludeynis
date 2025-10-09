@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Ludeynis
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**.  
 💻 Apasionada por la programación, el diseño web y el aprendizaje constante.  
@@ -25,9 +25,8 @@
 ---
 
 ### 📫 Contacto
-📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-🌐 [Portfolio](https://tuweb.com) *(si tienes uno)*
+📧 [Ludeynis@gmail.com](mailto:ludeynis@gmail.com)  
+💼 [LinkedIn](www.linkedin.com/in/ludeynis-gamez-50b368361)  
 
 ---
 
