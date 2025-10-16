@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ludeynis
+# ¡Hola! Soy Ludeynis
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**.  
 💻 Apasionada por la programación, el diseño web y el aprendizaje constante.  
