@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ludeynis
 
-Desarrolladora de Aplicaciones Web (DAW)**.  
+**Desarrolladora de Aplicaciones Web (DAW)**.  
 Apasionada por la programación, el diseño web y el aprendizaje constante.  
 Actualmente mejorando mis habilidades en **JavaScript, PHP, MySQL** y **frameworks frontend**.
 
