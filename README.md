@@ -1,8 +1,8 @@
 # ¡Hola! Soy Ludeynis
 
-🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**.  
-💻 Apasionada por la programación, el diseño web y el aprendizaje constante.  
-🚀 Actualmente mejorando mis habilidades en **JavaScript, PHP, MySQL** y **frameworks frontend**.
+Desarrolladora de Aplicaciones Web (DAW)**.  
+Apasionada por la programación, el diseño web y el aprendizaje constante.  
+Actualmente mejorando mis habilidades en **JavaScript, PHP, MySQL** y **frameworks frontend**.
 
 ---
 
@@ -17,17 +17,16 @@
 
 ---
 
-### 🌱 Sobre mí
-- 🔍 Me gusta entender cómo funcionan las cosas “por dentro”.
-- 🧠 Siempre buscando aprender nuevas tecnologías y buenas prácticas.
-- 💬 Me interesa colaborar en proyectos que me ayuden a crecer como desarrolladora.
+###  Sobre mí
+-  Me gusta entender cómo funcionan las cosas “por dentro”.
+-  Siempre buscando aprender nuevas tecnologías y buenas prácticas.
+-  Me interesa colaborar en proyectos que me ayuden a crecer como desarrolladora.
 
 ---
 
-### 📫 Contacto
+###  Contacto
 📧 [Ludeynis@gmail.com](mailto:ludeynis@gmail.com)  
 💼 [LinkedIn](www.linkedin.com/in/ludeynis-gamez-50b368361)  
 
 ---
 
-✨ _“El código limpio es como un buen diseño: simple, claro y fácil de entender.”_
